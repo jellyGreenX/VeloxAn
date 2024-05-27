@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VeloxAn
+- 👋 Hi, I’m @jellyGreenX
 - 👀 I’m interested in Operating Systems, programming in C/C++, java, PHP and HTML5.
 - 🌱 I’m currently learning Software Engineering, Algorithms: Analysis and design.
 - 💞️ I’m looking to collaborate on ...
